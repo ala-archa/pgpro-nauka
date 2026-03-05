@@ -520,6 +520,14 @@
 | ИТОГО С НАЛОГОМ 6%      | 2784557.5 |         |          |
 #+TBLFM: @2$2=remote(frame,@>$4)::@2$3=remote(frame,@>$6)::@2$4=remote(frame,@>$8)::@3$2=remote(roof,@>$4)::@3$3=remote(roof,@>$6)::@3$4=remote(roof,@>$8)::@4$2=remote(insulation,@>$4)::@4$3=remote(insulation,@>$6)::@4$4=remote(insulation,@>$8)::@5$2=remote(interior,@>$4)::@5$3=remote(interior,@>$6)::@5$4=remote(interior,@>$8)::@6$2=remote(electrical,@>$4)::@6$3=remote(electrical,@>$6)::@6$4=remote(electrical,@>$8)::@7$2=remote(ventilation,@>$4)::@7$3=remote(ventilation,@>$6)::@7$4=remote(ventilation,@>$8)::@8$2=remote(heating,@>$4)::@8$3=remote(heating,@>$6)::@8$4=remote(heating,@>$8)::@9$2=remote(furniture,@>$4)::@9$3=remote(furniture,@>$6)::@9$4=remote(furniture,@>$8)::@10$2=remote(transport,@>$4)::@10$3=0::@10$4=0::@11$2=remote(tools,@>$4)::@11$3=remote(tools,@>$6)::@11$4=remote(tools,@>$8)::@12$2=remote(consumables,@>$4)::@12$3=remote(consumables,@>$6)::@12$4=remote(consumables,@>$8)::@13$2=remote(marketing,@>$4)::@13$3=remote(marketing,@>$6)::@13$4=remote(marketing,@>$8)::@14$2=vsum(@2..@13)::@14$3=vsum(@2..@13)::@14$4=vsum(@2..@13)::@15$2=remote(work-prep,@>$4)::@15$3=0::@15$4=0::@16$2=remote(work-site,@>$4)::@16$3=0::@16$4=0::@17$2=remote(work-demolition,@>$4)::@17$3=0::@17$4=0::@18$2=remote(work-frame,@>$4)::@18$3=0::@18$4=0::@19$2=remote(work-exterior,@>$4)::@19$3=0::@19$4=0::@20$2=remote(work-interior,@>$4)::@20$3=0::@20$4=0::@21$2=remote(work-systems,@>$4)::@21$3=0::@21$4=0::@22$2=remote(work-doors,@>$4)::@22$3=0::@22$4=0::@23$2=remote(work-shed,@>$4)::@23$3=0::@23$4=0::@24$2=remote(work-final,@>$4)::@24$3=0::@24$4=0::@25$2=vsum(@15..@24)::@25$3=0::@25$4=0::@26$2=@14$2+@25$2::@26$3=@14$3::@26$4=@14$4::@27$2=@26$2*1.06
 
+На [2026-03-05 Thu] курс сом:рубль = 1:0.9, и итог в рублях получается 2.506.101 руб.
+
+Расчитываем сэкономить около 50000-70000 сом покупкой части инструментов и материалах на маркетплейсах. В случае, если
+будет остаток, потратим его на дальнейшее улучшение хижины и инфраструктуры Ала-Арчи.
+
+В смету не включены риски. Я (Евгений Лепихин) беру их на себя в размере до 300.000 сом. Если фактические непредвиденные
+расходы превысят эту сумму, планируем краудфандинг.
+
 * Организация вертолетной заброски
 
 ** Информация и проблемы
